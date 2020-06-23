@@ -1,4 +1,4 @@
-### MOVIE_PROJECT ###
+### KING_COUNTY_PROJECT ###
 
 *For this project we asked the following questions:*
 1. What is the impact of renovation before selling a house?
